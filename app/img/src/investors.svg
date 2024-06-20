@@ -1,0 +1,18 @@
+<svg width="80.000000" height="80.000000" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_1305">
+			<rect id="Icon / Person" width="40.000000" height="40.000000" transform="translate(20.000000 20.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g opacity="0.100000">
+		<circle id="Base" cx="40.000000" cy="40.000000" r="40.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+	<rect id="Icon / Person" width="40.000000" height="40.000000" transform="translate(20.000000 20.000000)" fill="#4049F8" fill-opacity="0"/>
+	<g clip-path="url(#clip1_1305)">
+		<path id="Vector" d="M45.98 25.04C44.46 23.4 42.34 22.5 40 22.5C37.64 22.5 35.51 23.39 34 25.02C32.47 26.67 31.72 28.92 31.9 31.34C32.24 36.11 35.88 40 40 40C44.11 40 47.74 36.11 48.09 31.34C48.27 28.94 47.52 26.7 45.98 25.04Z" fill="#3671E9" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M53.74 57.5L26.24 57.5C25.89 57.5 25.53 57.42 25.2 57.27C24.87 57.12 24.59 56.9 24.35 56.63C23.85 56.02 23.64 55.19 23.79 54.35C24.45 50.69 26.51 47.62 29.74 45.46C32.62 43.55 36.26 42.5 39.99 42.5C43.73 42.5 47.37 43.55 50.24 45.46C53.48 47.62 55.54 50.69 56.2 54.35C56.35 55.19 56.14 56.02 55.64 56.62C55.4 56.9 55.12 57.12 54.79 57.27C54.46 57.42 54.1 57.5 53.74 57.5Z" fill="#3671E9" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
